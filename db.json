@@ -1,31 +1,29 @@
 {
-  "posts": [
+  "projects": [
     {
       "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "title": "Organo",
+      "description": "Register and view your teams and collaborators. A place where you can organize people and teams.",
+      "preview": "https://organo-lesantosx.vercel.app/",
+      "code": "https://github.com/lesantosx/organo",
+      "image": "https://i.imgur.com/XJg5nAD.png",
+      "techs": [
+        {
+          "id": 1,
+          "name": "React",
+          "icon": "/assets/techs/react.svg"
+        },
+        {
+          "id": 2,
+          "name": "JavaScript",
+          "icon": "/assets/techs/javascript.svg"
+        },
+        {
+          "id": 3,
+          "name": "CSS3",
+          "icon": "/assets/techs/css.svg"
+        }
+      ]
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
