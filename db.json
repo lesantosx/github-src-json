@@ -91,17 +91,17 @@
       {
         "id": 2,
         "name": "NextJS",
-        "icon": "/assets/techs/javascript.svg"
+        "icon": "/assets/techs/nextjs.svg"
       },
       {
         "id": 3,
         "name": "TypeScript",
-        "icon": "/assets/techs/tailwindcss.svg"
+        "icon": "/assets/techs/typescript.svg"
       },
       {
         "id": 4,
         "name": "Node.js",
-        "icon": "/assets/techs/tailwindcss.svg"
+        "icon": "/assets/techs/nodejs.svg"
       }
     ]
    }
