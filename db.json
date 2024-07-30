@@ -74,6 +74,36 @@
         "icon": "/assets/techs/tailwindcss.svg"
       }
     ]
-  }
+   },
+    {
+    "id": 4,
+    "title": "nlw-copa",
+    "description": "App Project developed with Rocketseat.",
+    "preview": "",
+    "code": "https://github.com/lesantosx/nlw-copa",
+    "image": "https://user-images.githubusercontent.com/20993374/199374042-c1ee8ae9-e707-4705-8327-01719f6fdf7f.png",
+    "techs": [
+      {
+        "id": 1,
+        "name": "React",
+        "icon": "/assets/techs/react.svg"
+      },
+      {
+        "id": 2,
+        "name": "NextJS",
+        "icon": "/assets/techs/javascript.svg"
+      },
+      {
+        "id": 3,
+        "name": "TypeScript",
+        "icon": "/assets/techs/tailwindcss.svg"
+      },
+      {
+        "id": 4,
+        "name": "Node.js",
+        "icon": "/assets/techs/tailwindcss.svg"
+      }
+    ]
+   }
   ]
 }
